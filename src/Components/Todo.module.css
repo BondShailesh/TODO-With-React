@@ -1,0 +1,35 @@
+.input0{
+    font-size: 40px;
+    background-color: rgb(236, 163, 163);
+    /* color: orange; */
+    width: 100%;
+}
+.heading{
+    text-align: center;
+    color: rgb(165, 42, 42);
+}
+*{
+    background-color: rgb(202, 235, 235);
+}
+.buttonAdd{
+    margin-left: 93%;
+   background-color: rgb(206, 187, 223);
+   font-size: 34px;
+}
+.listContainer{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.listItems{
+   /* border:1px solid black; */
+}
+.delete{
+    font-size: 20px;
+    margin-left: 93%;
+    color: red;
+    background-color: rgb(233, 209, 178);
+}
+.items{
+    display: flex;
+    font-size: 34px;
+}
